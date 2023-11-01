@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/fDQXVLm/1.jpg",
+    "title": "John Doe",
+    "profession": "Auto Mechanic"
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/JK4PvQH/2.jpg",
+    "title": "Jane Smith",
+    "profession": "Car Detailer"
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/2KBJGTv/3.jpg",
+    "title": "Michael Johnson",
+    "profession": "Automotive Engineer"
+  }
+]

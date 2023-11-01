@@ -1,0 +1,46 @@
+ [
+      {
+        "id": 1,
+        "title": "Car Engine Plug",
+        "price": 19.99,
+        "image": "https://i.ibb.co/5hYnwtr/6.png",
+        "rating": 4.5
+      },
+      {
+        "id": 2,
+        "title": "Car Air Filter",
+        "price": 29.99,
+        "image": "https://i.ibb.co/mNYk7sf/3.png",
+        "rating": 4.2
+      },
+      {
+        "id": 3,
+        "title": "Cools Led Light",
+        "price": 14.99,
+        "image": "https://i.ibb.co/Dwspkc1/1.png",
+        "rating": 4.7
+      },
+      {
+        "id": 4,
+        "title": "Cools Led Light",
+        "price": 49.99,
+        "image": "https://i.ibb.co/5M30qNF/2.png",
+        "rating": 4.0
+      },
+      {
+        "id": 5,
+        "title": "Car Tair",
+        "price": 39.99,
+        "image": "https://i.ibb.co/zxxZ4q0/5.png",
+        "rating": 4.8
+      },
+      {
+        "id": 6,
+        "title": "Car Battery",
+        "price": 34.99,
+        "image": "https://i.ibb.co/XVL1MHy/4.png",
+        "rating": 4.3
+      }
+    ]
+
+  
