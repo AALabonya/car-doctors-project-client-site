@@ -59,6 +59,7 @@ const AuthProvider = ({children}) => {
                 .then(res=>{
                     console.log("token response", res.data);
                 })
+                
             }else{
                 axios.post("https://car-doctors-server-dun.vercel.app/logout" ,loggedUser, {withCredentials:true})
                 .then(res=>{
